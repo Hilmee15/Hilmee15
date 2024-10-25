@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **ahmad.tamaam@gmail.com**
+- 📫 How to reach me **ahmad.tamaam@binus.co.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
