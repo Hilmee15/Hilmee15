@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hilmee15&label=Profile%20views&color=0e75b6&style=flat" alt="hilmee15" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hilmee15" alt="hilmee15" /></a> </p>
+
 - 🔭 I’m currently a college student at **Bina Nusantara University Bandung**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 📫 How to reach me **ahmad.tamaam@binus.co.id**
+- 📫 How to reach me **ahmad.tamaam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahmad-hilmi-tamaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad hilmi tamaam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad-hilmi-tamaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-hilmi-tamaam" height="30" width="40" /></a>
 <a href="https://instagram.com/hilmeetamaam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hilmeetamaam" height="30" width="40" /></a>
 </p>
 
