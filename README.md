@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilmi</h1>
-<h3 align="center">A developer from Indonesia passionate about building impactful software</h3>
+<h3 align="center">A developer from Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hilmee15&label=Profile%20views&color=0e75b6&style=flat-square" alt="hilmee15" />
